@@ -1,0 +1,29 @@
+.bg-primary{
+    background-color: black !important;
+}
+.btn-primary{
+    width: 100px;
+    background-color: gray;
+    border-color: black;
+}
+.btn-primary:hover{
+    color: gray !important;
+    background-color: black !important;
+    border-color: black !important;
+}
+.container.searchContainer{
+    display: flex;
+    width: 600px;
+}
+.search.card.card-body{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: 600px;
+}
+.form-control{
+    width: 500px;
+}
+.card.mx-auto.mt-5{
+    margin-top: 1rem !important;
+}
